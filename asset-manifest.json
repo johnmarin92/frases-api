@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/johnmarin92.github.io/frases-api/static/css/main.4658ff97.chunk.css",
+    "main.js": "/johnmarin92.github.io/frases-api/static/js/main.48f3ece4.chunk.js",
+    "main.js.map": "/johnmarin92.github.io/frases-api/static/js/main.48f3ece4.chunk.js.map",
+    "runtime-main.js": "/johnmarin92.github.io/frases-api/static/js/runtime-main.e75cc459.js",
+    "runtime-main.js.map": "/johnmarin92.github.io/frases-api/static/js/runtime-main.e75cc459.js.map",
+    "static/js/2.ca38031a.chunk.js": "/johnmarin92.github.io/frases-api/static/js/2.ca38031a.chunk.js",
+    "static/js/2.ca38031a.chunk.js.map": "/johnmarin92.github.io/frases-api/static/js/2.ca38031a.chunk.js.map",
+    "static/js/3.a3443233.chunk.js": "/johnmarin92.github.io/frases-api/static/js/3.a3443233.chunk.js",
+    "static/js/3.a3443233.chunk.js.map": "/johnmarin92.github.io/frases-api/static/js/3.a3443233.chunk.js.map",
+    "index.html": "/johnmarin92.github.io/frases-api/index.html",
+    "static/css/main.4658ff97.chunk.css.map": "/johnmarin92.github.io/frases-api/static/css/main.4658ff97.chunk.css.map",
+    "static/js/2.ca38031a.chunk.js.LICENSE.txt": "/johnmarin92.github.io/frases-api/static/js/2.ca38031a.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/johnmarin92.github.io/frases-api/static/media/logo.4543bc50.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e75cc459.js",
+    "static/js/2.ca38031a.chunk.js",
+    "static/css/main.4658ff97.chunk.css",
+    "static/js/main.48f3ece4.chunk.js"
+  ]
+}
